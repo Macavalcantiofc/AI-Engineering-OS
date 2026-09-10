@@ -14,7 +14,6 @@ Sistema pessoal e versionado para evolução contínua em AI Engineering, Agenti
 - `knowledge/` conhecimento consolidado
 - `learning/` trilhas e progresso
 - `agents/` agentes e contratos
-- `cost-engine/` calculadora de custo de desenvolvimento com IA
 - `cases/` cases reais e experimentos
 - `questions/` dúvidas e lacunas
 - `research/` pesquisas e tecnologias emergentes
