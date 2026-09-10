@@ -1,0 +1,35 @@
+# SDD Specification Template
+
+```yaml
+id: SDD-YYYY-NNN
+title: ""
+status: draft
+owner: ""
+created: YYYY-MM-DD
+
+problem:
+  statement: ""
+  users: []
+  constraints: []
+
+requirements:
+  functional: []
+  non_functional: []
+
+context:
+  repository: ""
+  architecture: ""
+  integrations: []
+
+acceptance_criteria: []
+quality_gates: []
+
+ai_strategy:
+  agents: []
+  model_policy: ""
+  evaluation: ""
+  cost_budget: null
+
+risks: []
+open_questions: []
+```

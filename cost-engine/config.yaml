@@ -1,0 +1,35 @@
+version: 0.1
+currency: USD
+
+estimation:
+  scenarios: [low, base, high]
+  include_retries: true
+  include_tool_calls: true
+  include_context_tokens: true
+  include_infrastructure: false
+
+optimization:
+  hard_constraints:
+    - quality_threshold
+    - risk_threshold
+    - budget_limit
+  objective:
+    - minimize_cost
+    - minimize_latency
+
+stages:
+  - specification
+  - architecture
+  - implementation
+  - testing
+  - review
+  - documentation
+
+model_selection:
+  principle: "Use the cheapest model that reliably satisfies the stage quality requirement."
+  escalation: "Escalate when evaluator confidence or quality falls below threshold."
+
+calibration:
+  store_estimated_cost: true
+  store_actual_cost: true
+  track_variance: true
