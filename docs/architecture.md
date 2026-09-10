@@ -33,3 +33,6 @@ Esses papéis são mecanismos do assistente de aprendizagem, não projetos indep
 `Learn -> Capture -> Validate -> Experiment -> Review -> Connect -> Teach`
 
 Cada artefato deve existir porque contribui para esse ciclo. Evitar estrutura ou automação que não agregue valor ao aprendizado.
+
+## Fora do escopo
+Não manter neste repositório engines, produtos ou projetos independentes que tenham objetivo próprio fora do sistema de aprendizagem. Eles podem existir em repositórios separados e, quando relevante, ser referenciados como material de estudo.
