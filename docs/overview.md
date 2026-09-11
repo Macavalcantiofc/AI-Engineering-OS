@@ -46,6 +46,26 @@ A pergunta é:
 
 Vamos partir do fundamento: **RAG não começa em RAG.** Antes dele existem representação de conhecimento, particionamento, indexação, busca e recuperação de informação.
 
+### 📊 Baseline de conhecimento
+
+Este é o ponto inicial da trilha. Os percentuais abaixo representam **0% de conhecimento avaliado neste ciclo**, não uma medida de capacidade técnica geral. Eles serão revisados por avaliação, discussão e evidência prática.
+
+| # | Tema | Nível | Estado | Ordem |
+|---|---|---:|---|---|
+| 01 | Documento | 0% | 🔴 Gap | **Atual** |
+| 02 | Chunking | 0% | 🔴 Gap | Próximo |
+| 03 | Embeddings | 0% | 🔴 Gap | Aguardando |
+| 04 | Vector Store | 0% | 🔴 Gap | Aguardando |
+| 05 | Retrieval | 0% | 🔴 Gap | Aguardando |
+| 06 | RAG | 0% | 🔴 Gap | Aguardando |
+| 07 | Contexto | 0% | 🔴 Gap | Aguardando |
+| 08 | LLM | 0% | 🔴 Gap | Aguardando |
+| 09 | Tool Calling | 0% | 🔴 Gap | Aguardando |
+| 10 | MCP | 0% | 🔴 Gap | Aguardando |
+| 11 | Agent | 0% | 🔴 Gap | Aguardando |
+
+> **Regra de progressão:** não avançamos para o próximo tema até que o Math avance voluntariamente ou aceite uma sugestão explícita de progressão.
+
 ## 🧭 Como aprendemos
 
 ```text
@@ -147,6 +167,6 @@ Se depois disso a tecnologia continuar interessante, aí sim abrimos o capô. �
 
 ## 🏁 Próximo passo
 
-Desmontar a cadeia **documento → chunking → embeddings → vector store → retrieval → RAG → contexto → LLM → tool calling → MCP → agent**, começando pelos conceitos fundamentais e conectando cada camada à arquitetura.
+Começar pelo tema **01. Documento** e só avançar pela cadeia quando houver progressão explícita.
 
 **Sem correr para implementar um Agent só porque o slide tinha um robô.** 🤖
