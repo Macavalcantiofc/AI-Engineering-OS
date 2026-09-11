@@ -3,6 +3,7 @@ name: Deploy Control Room
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: read
