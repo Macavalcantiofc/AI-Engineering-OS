@@ -52,7 +52,7 @@ Este é o ponto inicial da trilha. Os percentuais abaixo representam **0% de con
 
 | # | Tema | Nível | Estado | Ordem |
 |---|---|---:|---|---|
-| 01 | Documento | 0% | 🔴 Gap | **Atual** |
+| 01 | Documento | **~60%** | 🟠 Em consolidação | **Atual** |
 | 02 | Chunking | 0% | 🔴 Gap | Próximo |
 | 03 | Embeddings | 0% | 🔴 Gap | Aguardando |
 | 04 | Vector Store | 0% | 🔴 Gap | Aguardando |
@@ -167,6 +167,6 @@ Se depois disso a tecnologia continuar interessante, aí sim abrimos o capô. �
 
 ## 🏁 Próximo passo
 
-Começar pelo tema **01. Documento** e só avançar pela cadeia quando houver progressão explícita.
+Continuar consolidando o tema **01. Documento** e só avançar pela cadeia quando houver progressão explícita.
 
 **Sem correr para implementar um Agent só porque o slide tinha um robô.** 🤖
