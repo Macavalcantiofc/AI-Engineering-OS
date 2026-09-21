@@ -52,7 +52,7 @@ Este é o ponto inicial da trilha. Os percentuais abaixo representam **0% de con
 
 | # | Tema | Nível | Estado | Ordem |
 |---|---|---:|---|---|
-| 01 | Documento | **~60%** | 🟠 Em consolidação | **Atual** |
+| 01 | Documento | **~75%** | 🟠 Em consolidação | **Atual** |
 | 02 | Chunking | 0% | 🔴 Gap | Próximo |
 | 03 | Embeddings | 0% | 🔴 Gap | Aguardando |
 | 04 | Vector Store | 0% | 🔴 Gap | Aguardando |
