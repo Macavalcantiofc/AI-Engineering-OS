@@ -61,7 +61,7 @@ Este é o ponto inicial da trilha. Os percentuais abaixo representam **0% de con
 | 07 | Contexto | 0% | 🔴 Gap | Aguardando |
 | 08 | LLM | 0% | 🔴 Gap | Aguardando |
 | 09 | Tool Calling | 0% | 🔴 Gap | Aguardando |
-| 10 | MCP | 0% | 🔴 Gap | Aguardando |
+| 10 | MCP | **35%** | 🟡 Em aprendizado | Estudado nesta etapa |
 | 11 | Agent | 0% | 🔴 Gap | Aguardando |
 
 > **Regra de progressão:** não avançamos para o próximo tema até que o Math avance voluntariamente ou aceite uma sugestão explícita de progressão.
