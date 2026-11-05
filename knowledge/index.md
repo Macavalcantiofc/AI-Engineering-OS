@@ -11,6 +11,7 @@ Este índice aponta para conhecimento consolidado. Notas transitórias devem per
 ## AI Engineering
 - RAG e hybrid search
 - Tool calling
+- MCP: fundamentos e arquitetura (35%, 🟡 Em aprendizado; diagnóstico conceitual 5/5)
 - Structured generation
 - Observability e tracing
 - Security e guardrails
